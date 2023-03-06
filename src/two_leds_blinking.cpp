@@ -1,9 +1,10 @@
 #include <Arduino.h>
-/*
-//  TWO BLINKING LEDS
-//
-//connect LEDs to two output pins, let them alternately blink
 
+//  TWO BLINKING LEDS
+//  connect LEDs to two output pins, let them alternately blink
+//
+
+/*
 //use pin 7 and 8 for a LED
 void setup() {
   pinMode(7, OUTPUT);

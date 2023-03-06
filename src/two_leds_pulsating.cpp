@@ -1,8 +1,10 @@
 #include <Arduino.h>
-/*
+
 //  TWO PULSATING LEDS
+//  connect LEDs to two output pins, let them alternately pulsate
 //
-//connect LEDs to two output pins, let them alternately blink
+
+/*
 const int LED1 = 10;
 const int LED2 = 11;
 
