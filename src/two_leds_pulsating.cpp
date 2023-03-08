@@ -32,12 +32,12 @@ void toggle_on_off_pin(int pin_id, int duration) {
 // 
 //
 void pulsate_on_off_pin(int pin_id, int duration) {
-  int delay_time = 10;  //for how long should the analog pin stay on the same voltage level (minimum time)
+  const int delay_time = 10;  //for how long should the analog pin stay on the same voltage level (minimum time)
 
   // 0.5 * (duration/delay_time) = Soll-Anzahl der "Schaltvorgänge" vom Minimum zum Maximum
   //                               (die tatsächliche Anzahl der "Schaltvorgänge" kann darunter liegen, da es nur 256 Spannungslevel gibt)
   //
-  // (256 / Anzahl "Schaltvorgänge" ) = Schrittweite
+  // (256 / Anzahl "Schaltvorgänge" ) = Schrittweite (um die die Spannung erhöht/erniedrigt wird)
   double increment_size = 256.0 / (0.5 * duration/delay_time);
 
   //turning on
