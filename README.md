@@ -7,7 +7,7 @@
 
 `two_leds_blinking.cpp`
 
-![BLINKING-LED](./funduino_two_leds_blinking.jpg)
+![BLINKING-LED](./docs_images/funduino_two_leds_blinking.jpg)
 
 https://user-images.githubusercontent.com/58146347/224008390-d410d4f7-61e1-4469-b677-bebec6096557.mp4
 
@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/58146347/224008684-c011a418-c804-481d-
 
 `traffic_lights_pedestrian_crossing.cpp`
 
-![Arduino: Traffic light with pedestrian crossing](./funduino_traffic_light_pedestrian_crossing.jpg)
+![Arduino: Traffic light with pedestrian crossing](./docs_images/funduino_traffic_light_pedestrian_crossing.jpg)
 
 https://user-images.githubusercontent.com/58146347/224008592-a2aa11da-87ce-4d42-a504-e8d7fcecd001.mp4
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/58146347/224008592-a2aa11da-87ce-4d42-
 
 `rgb_led_test.cpp`
 
-![RGB-LED](./funduino_rgb_led.jpg)
+![RGB-LED](./docs_images/funduino_rgb_led.jpg)
 
 https://user-images.githubusercontent.com/58146347/224008078-e120d88f-8394-4b54-8151-0d6c879775bb.mp4
 
