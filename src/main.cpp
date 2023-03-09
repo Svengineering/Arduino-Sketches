@@ -1,60 +1,25 @@
-#include <Arduino.h>
+//
+// This main.cpp is used with Visual Studio Code IDE with the PlatformIO extension.
+//
+// This main.cpp only includes the actual program source code, which is located 
+// in a matching subfolder of the 'lib' folder.
+//
+//
+// If working with VISUAL STUDIO CODE and PLATFORMIO, then you can do as follows:
+//
+//      For example, you want to compile/build/upload the sketch 'my_nice_arduino_sketch.cpp':
+//      
+//      Create a subfolder exactly named 'my_nice_arduino_sketch' in the 'lib' folder, then place
+//      the source file 'my_nice_arduino_sketch.cpp' into it.
+//      
+//      Now, only write the line 
+//
+//              #include <my_nice_arduino_sketch.cpp>
+//
+//      into this 'main.cpp' file. Then you can build and upload the Arduino sketch.
 
-const int RED = 6;
-const int GREEN = 5;
-const int BLUE = 3;
 
-const int brightness_red = 140;
-const int brightness_green = 70;
-const int brightness_blue = 140;
+#include <rgb_led_test.cpp>
 
-void setup() {
-    pinMode(RED, OUTPUT);
-    pinMode(GREEN, OUTPUT);
-    pinMode(BLUE, OUTPUT);
 
-}
 
-void loop() {
-
-    //red
-    analogWrite(RED, brightness_red);
-    analogWrite(BLUE, 0);
-    analogWrite(GREEN, 0);
-
-    delay(1000);
-
-    //green
-    analogWrite(RED, 0);
-    analogWrite(GREEN, brightness_green);
-
-    delay(1000);
-
-    //blue
-    analogWrite(GREEN, 0);
-    analogWrite(BLUE, brightness_blue);
-
-    delay(1000);
-
-    //yellow
-    analogWrite(BLUE, 0);
-    analogWrite(RED, 130);
-    analogWrite(GREEN, 40);
-
-    delay(1000);
-
-    //turquoise, cyan
-    analogWrite(BLUE, 80);
-    analogWrite(RED, 0);
-    analogWrite(GREEN, 120);
-
-    delay(1000);
-
-    //purple
-    analogWrite(BLUE, 90);
-    analogWrite(RED, 140);
-    analogWrite(GREEN, 0);
-
-    delay(3000);    
-
-}

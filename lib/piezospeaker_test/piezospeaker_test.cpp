@@ -1,11 +1,16 @@
+
+
+//  # 4
+//
+//  PIEZO SPEAKER BEEPING AND LED BLINKING
+//
+//  Well, the used speaker procuces a mind-numbing shrilling sound...
+
+
+
+
 #include <Arduino.h>
 
-
-//    PIEZOLAUTSPRECHER PIEPT UND LED BLINKT
-//
-//  ... das hier erzeugte Piepen ist nervig...
-
-/*
 const int LED = 4;
 const int PIEZOSPK = 5;
 
@@ -26,5 +31,3 @@ void loop() {
 
 
 }
-
-*/

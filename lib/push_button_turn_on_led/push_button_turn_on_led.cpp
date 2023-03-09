@@ -1,11 +1,18 @@
-#include <Arduino.h>
 
+
+//  # 3
+//
 //  TURN ON LED WITH BUTTON PRESS FOR A CERTAIN TIME
 //
 //  pushing a button will turn on a led for a fixed time, 
 //  repeating the button push (before led has turned out) will extend the lighting time
 
-/*
+
+
+
+#include <Arduino.h>
+
+
 const int BUTTON = 7;
 const int LED = 6;
 
@@ -37,6 +44,3 @@ void loop() {
 
   delay(10);
 }
-
-
-*/
