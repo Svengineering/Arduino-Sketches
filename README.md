@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/58146347/224008390-d410d4f7-61e1-4469-
 ![BLINKING-LED](./lib/two_leds_blinking/two_leds_blinking_schematic.png)
 
 - Arduino UNO R3 compatible device
-- 1 blue LED
+- 2 blue LED
 - 2 resistors 100 Ohm
 ******************
 
