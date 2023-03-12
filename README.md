@@ -5,7 +5,7 @@
 
 ### 1. Two LEDs blinking one after the other...
 
-`two_leds_blinking.cpp`
+[`two_leds_blinking.cpp`](./lib/two_leds_blinking/two_leds_blinking.cpp)
 
 ![BLINKING-LED](./docs_images/funduino_two_leds_blinking.jpg)
 
@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/58146347/224008390-d410d4f7-61e1-4469-
 
 ### 3. Turn on a LED by a button push and keep it shining
 
-`push_button_turn_on_led.cpp`
+[`push_button_turn_on_led.cpp`](./lib/push_button_turn_on_led/push_button_turn_on_led.cpp)
 
 https://user-images.githubusercontent.com/58146347/224008684-c011a418-c804-481d-8195-bd8051c7ed53.mp4
 
@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/58146347/224008684-c011a418-c804-481d-
 
 ### 5. Simulating traffic lights with a pedestrian crossing
 
-`traffic_lights_pedestrian_crossing.cpp`
+[`traffic_lights_pedestrian_crossing.cpp`](./lib/traffic_lights_pedestrian_crossing/traffic_lights_pedestrian_crossing.cpp)
 
 ![Arduino: Traffic light with pedestrian crossing](./docs_images/funduino_traffic_light_pedestrian_crossing.jpg)
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/58146347/224008592-a2aa11da-87ce-4d42-
 
 ### 6. Testing a RGB-LED
 
-`rgb_led_test.cpp`
+[`rgb_led_test.cpp`](./lib/rgb_led_test/rgb_led_test.cpp)
 
 ![RGB-LED](./docs_images/funduino_rgb_led.jpg)
 
