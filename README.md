@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/58146347/224008390-d410d4f7-61e1-4469-
 
 ### 2. Let two LEDS pulsate one after the other
 
-[`two_leds_pulsate.cpp`](./lib/two_leds_pulsate/two_leds_pulsate.cpp)
+[`two_leds_pulsating.cpp`](./lib/two_leds_pulsating/two_leds_pulsating.cpp)
 
 - layout and schematic are the same as in sketch #1
 
