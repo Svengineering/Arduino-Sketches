@@ -37,6 +37,9 @@ https://user-images.githubusercontent.com/58146347/224008684-c011a418-c804-481d-
 - 1 resistor 100 Ohm
 ********************
 
+### 4. Testing a piezospeaker
+
+[`piezospeaker_test.cpp`](./lib/piezospeaker_test/piezospeaker_test.cpp)
 
 
 ### 5. Simulating traffic lights with a pedestrian crossing
