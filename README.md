@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/58146347/224008684-c011a418-c804-481d-
 
 https://user-images.githubusercontent.com/58146347/224008592-a2aa11da-87ce-4d42-a504-e8d7fcecd001.mp4
 
-![Schematic](./lib/traffic_lights_pedestrian_crossing/traffic_lights_pedestrian_crossing_schematic.png)
+![Schematic](./lib/traffic_lights_pedestrian_crossing/traffic_lights_pedestrian_crossing_sch.png)
 
 - Arduino UNO R3 compatible device
 - traffic lights module for MCU (like https://www.az-delivery.de/products/led-ampel-modul)
