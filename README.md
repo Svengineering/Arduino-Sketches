@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/58146347/224008390-d410d4f7-61e1-4469-
 
 https://user-images.githubusercontent.com/58146347/224008684-c011a418-c804-481d-8195-bd8051c7ed53.mp4
 
-![Push Button and LED](./lib/push_button_turn_on_led/push_button_turn_on_led_schematic.png)
+![Push Button and LED](./lib/push_button_turn_on_led/push_button_turn_on_led_schem.png)
 
 - Arduino UNO R3 compatible device
 - 1 push button
