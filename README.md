@@ -74,7 +74,7 @@ https://user-images.githubusercontent.com/58146347/224008592-a2aa11da-87ce-4d42-
 
 https://user-images.githubusercontent.com/58146347/224008078-e120d88f-8394-4b54-8151-0d6c879775bb.mp4
 
-![Schematic](./lib/led_rgb_test/led_rgb_test_schematic.png)
+![Schematic](./lib/rgb_led_test/rgb_led_test_schematic.png)
 
 - Arduino UNO R3 compatible device
 - 1 RGB-LED (common cathode)
