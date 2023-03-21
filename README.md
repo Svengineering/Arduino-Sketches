@@ -18,11 +18,14 @@ https://user-images.githubusercontent.com/58146347/224008390-d410d4f7-61e1-4469-
 - 2 resistors 100 Ohm
 ******************
 
+
 ### 2. Let two LEDS pulsate one after the other
 
 [`two_leds_pulsating.cpp`](./lib/two_leds_pulsating/two_leds_pulsating.cpp)
 
 - layout and schematic are the same as in sketch #1
+******************
+
 
 ### 3. Turn on a LED by a button push and keep it shining
 
@@ -39,9 +42,11 @@ https://user-images.githubusercontent.com/58146347/224008684-c011a418-c804-481d-
 - 1 resistor 100 Ohm
 ********************
 
+
 ### 4. Testing a piezospeaker
 
 [`piezospeaker_test.cpp`](./lib/piezospeaker_test/piezospeaker_test.cpp)
+******************
 
 
 ### 5. Simulating traffic lights with a pedestrian crossing
@@ -63,7 +68,6 @@ https://user-images.githubusercontent.com/58146347/224008592-a2aa11da-87ce-4d42-
 - 1 resistor 200 Ohm (as series resistance red)
 - 1 resistor 10 kOhm (as pulldown for button)
 ********************
-
 
 
 ### 6. Testing a RGB-LED
