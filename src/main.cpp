@@ -19,7 +19,7 @@
 //      into this 'main.cpp' file. Then you can build and upload the Arduino sketch.
 
 
-#include <rgb_led_test.cpp>
+#include <motion_sensor_test.cpp>
 
 
 

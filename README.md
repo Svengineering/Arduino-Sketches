@@ -85,5 +85,10 @@ https://user-images.githubusercontent.com/58146347/224008078-e120d88f-8394-4b54-
 - 3 resistors 200 Ohm
 
 
+### 7. Testing a motion sensor
 
+[`motion_sensor_test.cpp`](./lib/motion_sensor_test/motion_sensor_test.cpp)
 
+- Arduino UNO R3 compatible device
+- PIR motion sensor HC-SR501
+- 1 blue LED + 1 resistor 200 Ohm
