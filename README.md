@@ -83,7 +83,7 @@ https://user-images.githubusercontent.com/58146347/224008078-e120d88f-8394-4b54-
 - Arduino UNO R3 compatible device
 - 1 RGB-LED (common cathode)
 - 3 resistors 200 Ohm
-
+********************************
 
 ### 7. Testing a motion sensor
 
@@ -92,3 +92,13 @@ https://user-images.githubusercontent.com/58146347/224008078-e120d88f-8394-4b54-
 - Arduino UNO R3 compatible device
 - PIR motion sensor HC-SR501
 - 1 blue LED + 1 resistor 200 Ohm
+
+### 8. Testing a photo resistor
+
+[`photoresistor_test.cpp`](./lib/photoresistor_test/photoresistor_test.cpp)
+
+![Schematic](./lib/photoresistor_test/photoresistor_test_schematic.png)
+
+- Arduino UNO R3 compatible device
+- Light Dependent Resistor
+- 1 resistor from 1 kOhm to 50 kOhm, taking several measurements
